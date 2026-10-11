@@ -1,2 +1,2 @@
 # Eridian-Lexicon
-Community-built musical language disctionary inspred by Project Hail Mary
+Community-built musical language dictionary inspired by Project Hail Mary
